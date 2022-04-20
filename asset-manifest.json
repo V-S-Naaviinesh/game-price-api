@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-price-api/static/css/main.8b06122b.css",
+    "main.js": "/game-price-api/static/js/main.9dffe9f1.js",
+    "static/js/787.7c729dd1.chunk.js": "/game-price-api/static/js/787.7c729dd1.chunk.js",
+    "index.html": "/game-price-api/index.html",
+    "main.8b06122b.css.map": "/game-price-api/static/css/main.8b06122b.css.map",
+    "main.9dffe9f1.js.map": "/game-price-api/static/js/main.9dffe9f1.js.map",
+    "787.7c729dd1.chunk.js.map": "/game-price-api/static/js/787.7c729dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b06122b.css",
+    "static/js/main.9dffe9f1.js"
+  ]
+}
